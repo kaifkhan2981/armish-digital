@@ -5,8 +5,8 @@
       <div class="privacy_box">
          <h2 class="">Privacy Policy</h2>
          <h3 class="title clr_blk"> About The Policy</h3>
-         <p>At Armishai Digital the protection of our customers is our top need on
-            https://www.armishai.com and we regard it as our own. In spite of the fact that we gather data
+         <p>At Armish Digital the protection of our customers is our top need on
+            https://www.Armish Digital.com and we regard it as our own. In spite of the fact that we gather data
             from our customers, it is just used to make enhancements in our client administrations. Our organization
             recognizes that the support and utilization of our customers’ data is our obligation. We DO NOT lease or
             offer the data that our customers give us on the web.</p>
@@ -25,7 +25,7 @@
             message. Message & data rates may apply. You can reply STOP to opt-out of further messaging.
          </p>
          <h3 class="title clr_blk"> Personal Information Collected</h3>
-         <p>The data gathered by Armishai Digital incorporates the customer’s name, email, postage information
+         <p>The data gathered by Armish Digital incorporates the customer’s name, email, postage information
             and telephone number. These are bits of data that the customer gives us while requesting or while sparing
             the data with our organization. We may likewise utilize the email addresses or street numbers which we
             get through our mailing framework, for example, our Contact Us Form for reacting to remarks, questions
@@ -68,7 +68,7 @@
             utilize financially satisfactory intends to ensure your own data, we can’t promise its outright security.
          </p>
          <p>In the event that you have any inquiries concerning security on our Web website, you can send email us at
-            <a href="mailto:info@armishai.com">info@armishai.com</a>
+            <a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
          </p>
          <h3 class="title clr_blk"> Access of Registered Accounts</h3>
          <p>The customer can get to their enrolled accounts by marking in on our landing page. Once marked in, the
@@ -136,7 +136,7 @@
          <h3 class="title clr_blk"> Questions</h3>
          <p>On the off chance that you have any inquiries with respect to our Privacy Policy or our utilization of
             your data, call our toll free number (+1 (469) 231-5312 ) or email us on
-            <a href="mailto:info@armishai.com">info@armishai.com</a>
+            <a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
          </p>
       </div>
    </div>

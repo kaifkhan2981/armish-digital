@@ -17,7 +17,7 @@
    <div class="container">
       <div class="privacy_box">
          <h2 class="">CCPA Privacy Notice</h2>
-         <p> Armishai Digital is complying with the CCPA and considering its underlying principles in how we
+         <p> Armish Digital is complying with the CCPA and considering its underlying principles in how we
             think about customer trust and data privacy as a core pillar of our business. We are providing this
             CCPA-specific privacy notice to supplement the information and disclosures already contained in our <a
                href="privacy">Privacy Policy</a>. This notice applies to individuals residing in California from
@@ -429,12 +429,12 @@
          <p> <strong>Submit Requests.</strong> To exercise your rights under the CCPA, you can deactivate and purge
             your account in your control panel settings (. For other requests or to authorize an agent to make a
             request on your behalf, you can also reach out to us at <a
-               href="mailto:info@armishai.com">info@armishai.com</a>.
+               href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>.
          </p>
          <h3> Contact Information </h3>
          <p>If you have any questions, comments, or concerns about our processing activities, or you would like to
             exercise your privacy rights, please email us at <a
-               href="mailto:info@armishai.com">info@armishai.com</a>
+               href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
             or write to us at: </p>
       </div>
    </div>

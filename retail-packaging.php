@@ -21,7 +21,7 @@
 
                 <h1 class="wow bounceInLeft" data-wow-delay="300ms">Retail Packaging </h1>
                 <p class="wow bounceInLeft" data-wow-delay="300ms">Grow your brand's image with powerful graphics,
-                  visual cues, and customized retail packaging solutions from Armishai Digital. </p>
+                  visual cues, and customized retail packaging solutions from Armish Digital. </p>
 
                 <ul class="banner_list">
                   <li class="wow bounceInLeft " data-wow-delay="400ms">Extensive Experience in the Packaging and Label
@@ -65,7 +65,7 @@
 
                 <h1 class="wow bounceInLeft" data-wow-delay="300ms">Retail Packaging </h1>
                 <p class="wow bounceInLeft" data-wow-delay="300ms">Grow your brand's image with powerful graphics,
-                  visual cues, and customized retail packaging solutions from Armishai Digital. </p>
+                  visual cues, and customized retail packaging solutions from Armish Digital. </p>
 
                 <ul class="banner_list">
                   <li class="wow bounceInLeft " data-wow-delay="400ms">Extensive Experience in the Packaging and Label
@@ -110,7 +110,7 @@
 
                 <h1 class="wow bounceInLeft" data-wow-delay="300ms">Retail Packaging </h1>
                 <p class="wow bounceInLeft" data-wow-delay="300ms">Grow your brand's image with powerful graphics,
-                  visual cues, and customized retail packaging solutions from Armishai Digital. </p>
+                  visual cues, and customized retail packaging solutions from Armish Digital. </p>
 
                 <ul class="banner_list">
                   <li class="wow bounceInLeft " data-wow-delay="400ms">Extensive Experience in the Packaging and Label
@@ -364,7 +364,7 @@
   <section class="key_features_sec">
     <div class="container">
       <h2 class="title_blk">Key Features</h2>
-      <p class="title_blk_para">At Armishai Digital, Imagination and Innovation meet exceptional designs. With our
+      <p class="title_blk_para">At Armish Digital, Imagination and Innovation meet exceptional designs. With our
         extensive design service features and solutions, <span>you as business can unleash your potential to the
           fullest</span></p>
 
@@ -476,8 +476,8 @@
           </div>
 
           <div class="col-sm-6">
-            <h3><span>“</span> It Was A Privilege to Work with Armishai Digital. </h3>
-            <p>Armishai Digital started by managing our creative logos, t-shirt designs, and content but their
+            <h3><span>“</span> It Was A Privilege to Work with Armish Digital. </h3>
+            <p>Armish Digital started by managing our creative logos, t-shirt designs, and content but their
               excellent approach towards digital marketing and design spurred us to get them on-board for our complete
               designing and branding solutions and management of our diverse portfolio of products and services
               inclusive of digital channels, media, and websites. They have been a fantastic partner to us, and they
@@ -509,7 +509,7 @@
 
           <div class="col-sm-6">
             <h3><span>“</span> Perfect Digital Marketing Solutions! </h3>
-            <p>We rely at Armishai Digital, for their digital marketing expertise, particularly in the areas of
+            <p>We rely at Armish Digital, for their digital marketing expertise, particularly in the areas of
               SEO and social media marketing. Their team is knowledgeable, responsive and committed to supporting our
               initiatives, making them invaluable partners in our effort to promote brand awareness, drive traffic to
               our website, and generate new business. We feel confident that we’re getting the best advice on how to
@@ -527,7 +527,7 @@
 <section class="other_categories_sec">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Other categories that may interest you </h2>
-    <p class="title_blk_para wow fadeInUp">At Armishai Digital, we are never out of ideas and solutions. Our
+    <p class="title_blk_para wow fadeInUp">At Armish Digital, we are never out of ideas and solutions. Our
       digital design categories transcend boundaries. <br>Browse through our diverse range of digital design
       categories.</p>
     <div class="row">

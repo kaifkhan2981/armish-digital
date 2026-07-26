@@ -141,7 +141,7 @@
 
     <h2 class="title_blk wow fadeInUp">Business Website Design</h2>
 
-    <p class="title_blk_para  wow fadeInUp">Armishai Digital will give your website the boost it needs. Designing
+    <p class="title_blk_para  wow fadeInUp">Armish Digital will give your website the boost it needs. Designing
       a website that generates results and attracts new and existing customers is what we are best at!</p>
 
   </div>
@@ -304,7 +304,7 @@
 <section class="key_features_sec">
   <div class="container">
     <h2 class="title_blk">Key Features</h2>
-    <p class="title_blk_para">At Armishai Digital, Imagination and Innovation meet exceptional designs. With our
+    <p class="title_blk_para">At Armish Digital, Imagination and Innovation meet exceptional designs. With our
       extensive design service features and solutions, <span>you as business can unleash your potential to the
         fullest</span></p>
 
@@ -454,7 +454,7 @@
 <section class="other_categories_sec">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Other categories that may interest you </h2>
-    <p class="title_blk_para wow fadeInUp">At Armishai Digital, we are never out of ideas and solutions. Our
+    <p class="title_blk_para wow fadeInUp">At Armish Digital, we are never out of ideas and solutions. Our
       digital design categories transcend boundaries. <br>Browse through our diverse range of digital design
       categories.</p>
     <div class="row">

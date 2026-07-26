@@ -9,7 +9,7 @@
                   <div class="col-sm-6">
                      <div class="banner_main banner_main_logo">
                         <h1 class="wow bounceInLeft " data-wow-delay="300ms">About Us </h1>
-                        <p class="wow bounceInLeft " data-wow-delay="500ms">We are Armishai Digital. What we do
+                        <p class="wow bounceInLeft " data-wow-delay="500ms">We are Armish Digital. What we do
                            is simple yet intuitive and creative. We are your global designing and innovative platform
                            that helps businesses and designers co-exist and work together. </p>
                         <div class="banner_btn wow  bounceInLeft" data-wow-delay="700ms"> <a href="contact-us"
@@ -28,14 +28,14 @@
 
    <div class="about_section_main">
       <div class="container">
-         <h2 class="title_blk wow fadeInUp">Armishai Digital</h2>
+         <h2 class="title_blk wow fadeInUp">Armish Digital</h2>
          <p class="title_blk_para  wow fadeInUp">As a digital designing and global creative platform, we combine the
             best user experiences and breathtaking designs to help convert businesses into powerful brands. We
             connect creative design experts with genius entrepreneurs, savvy businesses, and prolific digital gurus.
             We are here for anyone who needs the best designing solutions.
 
          </p>
-         <h5 class="wow fadeInUp">Five Key Factors to know about Armishai Digital
+         <h5 class="wow fadeInUp">Five Key Factors to know about Armish Digital
 
          </h5>
          <a href="about.html#about_sec_id" class="wow fadeInUp"> </a>
@@ -79,7 +79,7 @@
                      <h2 class="wow fadeInUp"> 5. Designs That are Modern and Innovative </h2>
                      <p class="wow fadeInUp"> Our designs are cool, trendy, and innovative. We are the masters of
                         modern digital designs and digital art. We adore having visitors, too. Come by and say hi at
-                        Armishai Digital. </p>
+                        Armish Digital. </p>
                   </div>
                </div>
             </div>

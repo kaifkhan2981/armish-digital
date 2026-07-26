@@ -3,10 +3,10 @@ session_start(); // Start the session
 
 if (isset($_GET["email"]) && !empty($_GET["email"])) {
     $from_email      = filter_var($_GET["email"], FILTER_SANITIZE_EMAIL); // Sanitize email
-    $recipient_email = 'info@armishai.com';
+    $recipient_email = 'info@Armish Digital.com';
     
     // Set default subject to a fixed string
-    $subject = "New Query from Armishai Digital";
+    $subject = "New Query from Armish Digital";
     
     $sender_name     = filter_var($_GET["name"], FILTER_SANITIZE_STRING);
     $reply_to_email  = filter_var($_GET["email"], FILTER_SANITIZE_EMAIL); // Ensure valid email

@@ -13,20 +13,20 @@
          <p>1. Specify your concern and claim your refund through any of the following three modes :-</p>
          <p>• i. Toll free # +92 335 6909090 </p>
          <p>• ii. Live Chat.</p>
-         <p>• iii. Email. (<a href="mailto:info@armishai.com">info@armishai.com</a>)
+         <p>• iii. Email. (<a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>)
          </p>
          <p>We will try to resolve your query and concern in light of our revision policy immediately or else will
             email you a refund request approval from our refund department.</p>
-         <p>After the refund, the rights to your design would be transferred to Armishai Digital and you would
+         <p>After the refund, the rights to your design would be transferred to Armish Digital and you would
             not legally be allowed to display any version of the design sent by the company.</p>
-         <p>1. Since the rights to design would now be transferred to Armishai Digital, you concur that you will
+         <p>1. Since the rights to design would now be transferred to Armish Digital, you concur that you will
             have no right (immediate or circuitous) to use any reaction or other substance, work item or media, nor
             will you have any ownership interest for or to the same.</p>
-         <p>2. Working in a joint effort with the Government Copyright Agencies Armishai Digital would share
+         <p>2. Working in a joint effort with the Government Copyright Agencies Armish Digital would share
             Copyright Acquisition data for the refunded outlines that would confine the re-utilization of the designs
             as original designs in the future.</p>
          <p>If you have any questions or concerns about our Refund Policy, please get in touch with us by clicking
-            here (<a href="mailto:info@armishai.com">info@armishai.com</a>).
+            here (<a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>).
          </p>
          <h3 class="title clr_blk"> My Account</h3>
          <p>The My Account area is a convenient way to communicate. It is your sole responsibility to check the
@@ -73,14 +73,14 @@
          <p>We offer 24-Hour Customer Support to address your questions and queries.</p>
          <p>You can get in touch with us at whatever time and we promise a prompt reply.</p>
          <p>Correspondence Policy</p>
-         <p>YOU concur that Armishai Digital is not at risk for any correspondence from email address (es) other
+         <p>YOU concur that Armish Digital is not at risk for any correspondence from email address (es) other
             than the ones took after by our own particular area i.e. “<a
-               href="mailto:info@armishai.com">info@armishai.com</a>”
-            or/and any toll free number that is not specified on our site. Armishai Digital ought not be
+               href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>”
+            or/and any toll free number that is not specified on our site. Armish Digital ought not be
             considered in charge of any damage(s) brought about by such correspondence. We just assume liability of
             any correspondence through email address (es) under our own space name or/and by means of toll free
-            number i.e. as of now specified on Armishai Digital Website.</p>
-         <p>At Armishai Digital we promise that all of our logos are produced using scratch. We will provide you
+            number i.e. as of now specified on Armish Digital Website.</p>
+         <p>At Armish Digital we promise that all of our logos are produced using scratch. We will provide you
             a logo that is adept and in complete compliance with your design brief.</p>
          <h3 class="title clr_blk"> Cancellation Policy </h3>
          <p>Before we begin working on your project, you have the option of canceling it. As soon as we begin working
@@ -101,23 +101,23 @@
             No request for a refund will be entertained after inaction by the customer for a 7 working days. If you
             wish to restart the order, you will be charged a certain fee contingent upon your venture.
             <br><br>
-            All requests for refund must be communicated to the support department. Armishai Digital , in light
+            All requests for refund must be communicated to the support department. Armish Digital , in light
             of the infringement of your user agreement, reserves all authority to affirm/object to your solicitation
             on an individual case to case premise.
             <br><br>
             All design jobs require client input before finishing the design which is why it is requested that the
             customer is active throughout the process and gives feedback in order to get the required results.
             <br><br>
-            A unique design guarantee qualifies you for a new logo if the logo designed by Armishai Digital is
+            A unique design guarantee qualifies you for a new logo if the logo designed by Armish Digital is
             found to be considerably similar to another design that already exists. Any likeness to a current outline
-            will be just a fortuitous event and Armishai Digital won’t acknowledge any responsibility or claim of
+            will be just a fortuitous event and Armish Digital won’t acknowledge any responsibility or claim of
             any compensation in such a case. It is the client’s responsibility to get their artwork copyrighted.
 
          </p>
 
-         <h3 class="title clr_blk"> Your billing descriptor: Armishai Digital </h3>
+         <h3 class="title clr_blk"> Your billing descriptor: Armish Digital </h3>
 
-         <h3 class="title clr_blk"> DBA: Armishai Digital </h3>
+         <h3 class="title clr_blk"> DBA: Armish Digital </h3>
 
          <p>
             How To Claim Your Refund To ensure that your refund request is processed effectively and is approved,
@@ -130,41 +130,41 @@
 
          </p>
 
-         <h3 class="title clr_blk"> • ii. Email. <a href="mailto:info@armishai.com">info@armishai.com</a>
+         <h3 class="title clr_blk"> • ii. Email. <a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
          </h3>
          <p>
             We will try to resolve your query and concern in light of our revision policy immediately or else will
             email you a refund request approval from our refund department.
             <br><br>
-            After the refund, the rights to your design would be transferred to Armishai Digital and you would
+            After the refund, the rights to your design would be transferred to Armish Digital and you would
             not legally be allowed to display any version of the design sent by the company.
             <br><br>
-            1. Since the rights to design would now be transferred to Armishai Digital, you concur that you will
+            1. Since the rights to design would now be transferred to Armish Digital, you concur that you will
             have no right (immediate or circuitous) to use any reaction or other substance, work item or media, nor
             will you have any ownership interest for or to the same.
             <br><br>
-            2. Working in a joint effort with the Government Copyright Agencies Armishai Digital would share
+            2. Working in a joint effort with the Government Copyright Agencies Armish Digital would share
             Copyright Acquisition data for the refunded outlines that would confine the re-utilization of the designs
             as original designs in the future.
             <br><br>
             If you have any questions or concerns about our Refund Policy, please get in touch with us by clicking
-            here (<a href="mailto:info@armishai.com">info@armishai.com</a>).
+            here (<a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>).
 
          </p>
 
 
          <h3 class="title clr_blk"> Shipping Policy </h3>
          <p>
-            Armishai Digital will deliver the Products at the address specified in the order confirmation,
+            Armish Digital will deliver the Products at the address specified in the order confirmation,
             provided that all applicable payments have been received in full by their appropriate due date, using
-            Armishai Digital´s standard methods for packaging and in accordance with the customer´s chosen
+            Armish Digital´s standard methods for packaging and in accordance with the customer´s chosen
             delivery option. Any lead time given is estimated.<br><br>
 
-            1.2. Armishai Digital may, at its discretion, deliver the Products in whole or by instalments in any
+            1.2. Armish Digital may, at its discretion, deliver the Products in whole or by instalments in any
             sequence or deliver the Products prior to the date of delivery, and in such event, the customer must not
             refuse to take delivery of the Products. Where the Products are delivered in instalments or part
             deliveries, each instalment or part delivery shall be invoiced separately if such an invoicing process is
-            put in place and be deemed to be a separate sale agreement between Armishai Digital and the customer.
+            put in place and be deemed to be a separate sale agreement between Armish Digital and the customer.
             Any delay in delivery or defect in an instalment or part delivery shall not entitle the customer to
             cancel any other instalment or terminate the entire sale agreement.
             <br><br>
@@ -190,9 +190,9 @@
             (POD) or similar type of service. A description of the alleged defect, non-performance or damage must be
             given in writing at the time of delivery and signed by or on behalf of the customer. If such a proof of
             delivery service was not included with the chosen delivery method, the customer shall be deemed to have
-            inspected the Products as soon as reasonably practicable after delivery. The customer must notify Armishai Digital, by contacting its Customer Care team either in writing (including by email) or by
+            inspected the Products as soon as reasonably practicable after delivery. The customer must notify Armish Digital, by contacting its Customer Care team either in writing (including by email) or by
             telephone, about any alleged defects, non-conformances or damages within 14 days after receipt of the
-            Products. Failure of customer to timely notify Armishai Digital after receipt as indicated in this
+            Products. Failure of customer to timely notify Armish Digital after receipt as indicated in this
             section voids the Product warranty and/or Satisfaction Guarantee. In the event the order was placed by a
             consumer, meaning a physical person who purchased the Product for use not related to a business,
             entrepreneurial or professional activity, the aforesaid notice period is extended to 2 months and will

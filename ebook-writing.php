@@ -23,7 +23,7 @@
             <div class="banner_main banner_main_logo">
 
               <h1 class="wow bounceInLeft " data-wow-delay="300ms">Write. Refine. Release </h1>
-              <p class="wow bounceInLeft " data-wow-delay="300ms">Armishai Digital: Mastering your eBook journey
+              <p class="wow bounceInLeft " data-wow-delay="300ms">Armish Digital: Mastering your eBook journey
                 from start to finish.</p>
 
               <ul class="banner_list">

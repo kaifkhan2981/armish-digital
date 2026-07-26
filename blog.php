@@ -118,7 +118,7 @@
 
     <h2 class="title_blk wow fadeInUp">Blog</h2>
 
-    <p class="title_blk_para  wow fadeInUp">Let your viewers stay longer with engaging and interesting blogs. Armishai Digital is here to offer you professionally and passionately written content for your blogs.</p>
+    <p class="title_blk_para  wow fadeInUp">Let your viewers stay longer with engaging and interesting blogs. Armish Digital is here to offer you professionally and passionately written content for your blogs.</p>
 
   </div>
 
@@ -324,7 +324,7 @@
 <section class="key_features_sec">
   <div class="container">
     <h2 class="title_blk">Key Features</h2>
-    <p class="title_blk_para">At Armishai Digital, Imagination and Innovation meet exceptional designs. With our
+    <p class="title_blk_para">At Armish Digital, Imagination and Innovation meet exceptional designs. With our
       extensive design service features and solutions, <span>you as business can unleash your potential to the
         fullest</span></p>
 
@@ -474,7 +474,7 @@
 <section class="other_categories_sec">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Other categories that may interest you </h2>
-    <p class="title_blk_para wow fadeInUp">At Armishai Digital, we are never out of ideas and solutions. Our
+    <p class="title_blk_para wow fadeInUp">At Armish Digital, we are never out of ideas and solutions. Our
       digital design categories transcend boundaries. <br>Browse through our diverse range of digital design
       categories.</p>
     <div class="row">

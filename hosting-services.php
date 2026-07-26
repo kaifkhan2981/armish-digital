@@ -902,7 +902,7 @@
 
    <div class="container">
 
-      <h2 class="title_blk">We at Armishai Digital Host Power<br>Millions of Users Through <br>
+      <h2 class="title_blk">We at Armish Digital Host Power<br>Millions of Users Through <br>
 
          Shared Hosting</h2>
 

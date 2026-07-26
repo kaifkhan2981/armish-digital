@@ -947,10 +947,10 @@
         <div class="life_style_boxes">
           <div class="col-sm-6"> <img src="images/testimonail-img1.png"> </div>
           <div class="col-sm-6">
-            <h3><span>“</span> It Was A Privilege to Work with Armishai Digital. Amazing Design Solutions.
+            <h3><span>“</span> It Was A Privilege to Work with Armish Digital. Amazing Design Solutions.
               Amazing
               Designers…”</h3>
-            <p>Armishai Digital started by managing our creative logos, t-shirt designs, and content but their
+            <p>Armish Digital started by managing our creative logos, t-shirt designs, and content but their
               excellent approach towards digital marketing and design spurred us to get them on-board for our
               complete
               designing and branding solutions and management of our diverse portfolio of products and services
@@ -978,7 +978,7 @@
           <div class="col-sm-6"> <img src="images/testimonail-img3.png"> </div>
           <div class="col-sm-6">
             <h3><span>“</span>Perfect Digital Marketing Solutions!” </h3>
-            <p>We rely at Armishai Digital, for their digital marketing expertise, particularly in the areas of
+            <p>We rely at Armish Digital, for their digital marketing expertise, particularly in the areas of
               SEO and social media marketing. Their team is knowledgeable, responsive and committed to supporting
               our
               initiatives, making them invaluable partners in our effort to promote brand awareness, drive traffic

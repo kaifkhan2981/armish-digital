@@ -15,7 +15,7 @@
 
               <h1 class="wow bounceInLeft " data-wow-delay="300ms">Mobile App Design<br> & Development </h1>
               <p class="wow bounceInLeft " data-wow-delay="300ms">It's time to make your online presence functional
-                and productive. At Armishai Digital, we enable your brand to run effectively in the digital world
+                and productive. At Armish Digital, we enable your brand to run effectively in the digital world
                 continuously. </p>
 
               <ul class="banner_list">
@@ -65,7 +65,7 @@
 
                 & Development </h1>
               <p class="wow bounceInLeft " data-wow-delay="300ms">It's time to make your online presence functional
-                and productive. At Armishai Digital, we enable your brand to run effectively in the digital world
+                and productive. At Armish Digital, we enable your brand to run effectively in the digital world
                 continuously. </p>
 
               <ul class="banner_list">
@@ -117,7 +117,7 @@
 
                 & Development </h1>
               <p class="wow bounceInLeft " data-wow-delay="300ms">It's time to make your online presence functional
-                and productive. At Armishai Digital, we enable your brand to run effectively in the digital world
+                and productive. At Armish Digital, we enable your brand to run effectively in the digital world
                 continuously. </p>
 
               <ul class="banner_list">
@@ -162,7 +162,7 @@
 
     <h2 class="title_blk wow fadeInUp">Mobile App Design & Development</h2>
 
-    <p class="title_blk_para  wow fadeInUp">Armishai Digital will make your online presence functional. We will
+    <p class="title_blk_para  wow fadeInUp">Armish Digital will make your online presence functional. We will
       enable your brand to run in the digital world and establish a completely new experience for online visitors.</p>
 
   </div>
@@ -342,7 +342,7 @@
 <section class="key_features_sec">
   <div class="container">
     <h2 class="title_blk">Key Features</h2>
-    <p class="title_blk_para">At Armishai Digital, Imagination and Innovation meet exceptional designs. With our
+    <p class="title_blk_para">At Armish Digital, Imagination and Innovation meet exceptional designs. With our
       extensive design service features and solutions, <span>you as business can unleash your potential to the
         fullest</span></p>
 
@@ -351,7 +351,7 @@
         <div class="col-sm-12">
           <div class="key_features_box">
             <h2>Absolute App Designs. Better Development</h2>
-            <p>App interfaces and mobile app development services are the future. We at Armishai Digital are the
+            <p>App interfaces and mobile app development services are the future. We at Armish Digital are the
               hub of excellent app design development services. </p>
           </div>
         </div>
@@ -452,7 +452,7 @@
 <section class="other_categories_sec">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Other categories that may interest you </h2>
-    <p class="title_blk_para wow fadeInUp">At Armishai Digital, we are never out of ideas and solutions. Our
+    <p class="title_blk_para wow fadeInUp">At Armish Digital, we are never out of ideas and solutions. Our
       digital design categories transcend boundaries. <br>Browse through our diverse range of digital design
       categories.</p>
     <div class="row">

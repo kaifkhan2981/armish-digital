@@ -100,7 +100,7 @@
     <div class="container">
       <h2 class="title_blk wow fadeInUp">Creative Content Writing
       </h2>
-      <p class="title_blk_para  wow fadeInUp">At Armishai Digital, our professional and experienced writers
+      <p class="title_blk_para  wow fadeInUp">At Armish Digital, our professional and experienced writers
         brainstorm a perfect scenario for your creative content and produce the maximum value from your existing
         budget.
 
@@ -142,7 +142,7 @@
               <div>
                 <div class="online_portfolio_text">
                   <h3>Ghostwriting Services</h3>
-                  <p>Wish to create content but can’t find a way forward? Armishai Digital is known for its striking
+                  <p>Wish to create content but can’t find a way forward? Armish Digital is known for its striking
                     ghostwriting services that match your user’s intent and help you rank higher in search engines.
                     <br>
                     <br>
@@ -183,7 +183,7 @@
                     recreational and requires a more professional approach than usual writing.
                     <br>
                     <br>
-                    At Armishai Digital, we work with several freelancer writers to brainstorm a perfect scenario
+                    At Armish Digital, we work with several freelancer writers to brainstorm a perfect scenario
                     for your creative content and produce the maximum value from your existing budget.</p>
                 </div>
               </div>
@@ -265,7 +265,7 @@
   <section class="key_features_sec">
     <div class="container">
       <h2 class="title_blk">Key Features</h2>
-      <p class="title_blk_para">At Armishai Digital, Imagination and Innovation meet exceptional designs. With our
+      <p class="title_blk_para">At Armish Digital, Imagination and Innovation meet exceptional designs. With our
         extensive design service features and solutions, <span>you as business can unleash your potential to the
           fullest</span></p>
 
@@ -456,7 +456,7 @@
 <section class="other_categories_sec">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Other categories that may interest you </h2>
-    <p class="title_blk_para wow fadeInUp">At Armishai Digital, we are never out of ideas and solutions. Our
+    <p class="title_blk_para wow fadeInUp">At Armish Digital, we are never out of ideas and solutions. Our
       digital design categories transcend boundaries. <br>Browse through our diverse range of digital design
       categories.</p>
     <div class="row">

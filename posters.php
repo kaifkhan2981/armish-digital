@@ -21,7 +21,7 @@
 
                 <h1 class=" bounceInLeft" data-wow-delay="300ms">Posters </h1>
                 <p class=" bounceInLeft" data-wow-delay="300ms">Functional, Modern, Appealing, and Dynamic Posters for
-                  your brands from Armishai Digital are incredibly well-designed. </p>
+                  your brands from Armish Digital are incredibly well-designed. </p>
 
                 <ul class="banner_list">
                   <li class="wow bounceInLeft " data-wow-delay="400ms">Wide-ranging Experience in Printing and
@@ -64,7 +64,7 @@
 
                 <h1 class=" bounceInLeft" data-wow-delay="300ms">Posters </h1>
                 <p class=" bounceInLeft" data-wow-delay="300ms">Functional, Modern, Appealing, and Dynamic Posters for
-                  your brands from Armishai Digital are incredibly well-designed. </p>
+                  your brands from Armish Digital are incredibly well-designed. </p>
 
                 <ul class="banner_list">
                   <li class="wow bounceInLeft " data-wow-delay="400ms">Wide-ranging Experience in Printing and
@@ -109,7 +109,7 @@
 
                 <h1 class=" bounceInLeft" data-wow-delay="300ms">Posters </h1>
                 <p class=" bounceInLeft" data-wow-delay="300ms">Functional, Modern, Appealing, and Dynamic Posters for
-                  your brands from Armishai Digital are incredibly well-designed. </p>
+                  your brands from Armish Digital are incredibly well-designed. </p>
 
                 <ul class="banner_list">
                   <li class="wow bounceInLeft " data-wow-delay="400ms">Wide-ranging Experience in Printing and
@@ -155,7 +155,7 @@
 
       <h2 class="title_blk wow fadeInUp">Posters</h2>
 
-      <p class="title_blk_para  wow fadeInUp">At Armishai Digital, we will print your posters for displaying for
+      <p class="title_blk_para  wow fadeInUp">At Armish Digital, we will print your posters for displaying for
         promotional purposes, and in full color, on your choice of paper and size.</p>
 
     </div>
@@ -354,7 +354,7 @@
   <section class="key_features_sec">
     <div class="container">
       <h2 class="title_blk">Key Features</h2>
-      <p class="title_blk_para">At Armishai Digital, Imagination and Innovation meet exceptional designs. With our
+      <p class="title_blk_para">At Armish Digital, Imagination and Innovation meet exceptional designs. With our
         extensive design service features and solutions, <span>you as business can unleash your potential to the
           fullest</span></p>
 
@@ -464,7 +464,7 @@
 <section class="other_categories_sec">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Other categories that may interest you </h2>
-    <p class="title_blk_para wow fadeInUp">At Armishai Digital, we are never out of ideas and solutions. Our
+    <p class="title_blk_para wow fadeInUp">At Armish Digital, we are never out of ideas and solutions. Our
       digital design categories transcend boundaries. <br>Browse through our diverse range of digital design
       categories.</p>
     <div class="row">

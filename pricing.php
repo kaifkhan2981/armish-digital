@@ -8,7 +8,7 @@
           <div class="col-sm-6">
             <div class="banner_main banner_main_logo">
               <h1 class="wow bounceInLeft " data-wow-delay="300ms">Our Pricing </h1>
-              <p class="wow bounceInLeft " data-wow-delay="500ms">At Armishai Digital, we offer a comprehensive
+              <p class="wow bounceInLeft " data-wow-delay="500ms">At Armish Digital, we offer a comprehensive
                 range of packages designed keeping in mind the unique needs of our valuable customers. We provide them
                 the extensive services at a reasonable price that everyone can afford.</p>
               <div class="banner_btn wow  bounceInLeft" data-wow-delay="700ms"> <a href="contact-us" class="tr_btn">

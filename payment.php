@@ -75,9 +75,9 @@
                                     <label class="checkbox-dis" style="    ">
 
 
-                                       <p style="font-size: 13px;"> Billing Descriptor: Armishai Digital </p>
+                                       <p style="font-size: 13px;"> Billing Descriptor: Armish Digital </p>
                                        <p style="font-size: 13px;">
-                                          <a href="mailto:info@armishai.com">info@armishai.com</a>
+                                          <a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
                                        </p>
                                        <p style="font-size: 13px;"> Support: (773) 309-1926 </p>
 
@@ -196,7 +196,7 @@
             <div class="col-sm-4">
                <div class="contact_details_box">
                   <img src="images/contact-details-icon1.png">
-                  <a href="mailto:info@armishai.com">info@armishai.com</a>
+                  <a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
                </div>
             </div>
          </div>

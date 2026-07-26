@@ -10,7 +10,7 @@
               <h1 class="wow bounceInLeft" data-wow-delay="300ms">Whiteboard Animation</h1>
               <p class="wow bounceInLeft" data-wow-delay="300ms">Whiteboard animation is a video that brings drawings
                 and text to life with movement, on a digital canvas. Create Dynamic Animations and Whiteboard Videos
-                with Armishai Digital.</p>
+                with Armish Digital.</p>
               <ul class="banner_list">
                 <li class="wow bounceInLeft " data-wow-delay="400ms">Comprehensive Whiteboard Animation Solutions</li>
                 <li class="wow bounceInLeft " data-wow-delay="500ms">Simple, Effective & Dynamic</li>
@@ -34,7 +34,7 @@
 <section class="all_portfolio_sec video_portfolio">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Whiteboard Animation</h2>
-    <p class="title_blk_para  wow fadeInUp">Armishai Digital will help you create reasonable and superimposed
+    <p class="title_blk_para  wow fadeInUp">Armish Digital will help you create reasonable and superimposed
       backgrounds, people, and objects. </p>
   </div>
   <div class="all_por_slider1_mm">
@@ -216,7 +216,7 @@
 <section class="key_features_sec">
   <div class="container">
     <h2 class="title_blk">Key Features</h2>
-    <p class="title_blk_para">At Armishai Digital, Imagination and Innovation meet exceptional designs. With our
+    <p class="title_blk_para">At Armish Digital, Imagination and Innovation meet exceptional designs. With our
       extensive design service features and solutions, <span>you as business can unleash your potential to the
         fullest</span></p>
 
@@ -427,7 +427,7 @@
 <section class="other_categories_sec">
   <div class="container">
     <h2 class="title_blk wow fadeInUp">Other categories that may interest you </h2>
-    <p class="title_blk_para wow fadeInUp">At Armishai Digital, we are never out of ideas and solutions. Our
+    <p class="title_blk_para wow fadeInUp">At Armish Digital, we are never out of ideas and solutions. Our
       digital design categories transcend boundaries. <br>Browse through our diverse range of digital design
       categories.</p>
     <div class="row">

@@ -5,7 +5,7 @@
             <div class="does_work_boxes">
                 <div class="col-sm-6 wow fadeInLeft">
                     <div class="does_work_box1 ">
-                        <h3>Contact Armishai Digital</h3>
+                        <h3>Contact Armish Digital</h3>
                         <p>We help every business reach its full potential via our exceptional designing solutions.</p>
                         <form class="contact_form_all" action="email" method="GET">
                             <div class="">
@@ -45,7 +45,7 @@
                                         I agree to receive communications by text message about publishing services may
                                         opt-out by replying STOP or ask for more information by replying HELP. Message
                                         frequency varies. Message and data rates may apply. You may review Privacy
-                                        Policy <a href="privacy">https://armishai.com/privacy-policy</a> to
+                                        Policy <a href="privacy">https://Armish Digital.com/privacy-policy</a> to
                                         learn how your data is used.
                                     </label>
                                 </div>

@@ -3,15 +3,15 @@
         <div class="row">
             <div class="footer_boxes">
                 <div class="col-sm-4">
-                    <h5 class="heading heading--h6 heading--punt-road">Armishai Digital</h5>
+                    <h5 class="heading heading--h6 heading--punt-road">Armish Digital</h5>
                     <div class="footer-links-menu email_sec">
                         <p>We are your go-to digital and design agency, providing exceptional design solutions. Increase
                             brand
-                            awareness, enhance your digital experience, and transform your businesses with Armishai Digital. We
+                            awareness, enhance your digital experience, and transform your businesses with Armish Digital. We
                             are your design partners.</p>
-                        <a href="mailto:info@armishai.com" style="width: 75%">
+                        <a href="mailto:info@Armish Digital.com" style="width: 75%">
                             <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                            info@armishai.com
+                            info@Armish Digital.com
                         </a>
                         <a href="tel:+923356909090"><i class="fa fa-phone" aria-hidden="true"></i> For Sales: +92 335 6909090</a>
                         <a><i class="fa fa-map-marker"></i>Pakistan</a>
@@ -85,13 +85,13 @@
                 <div class="col-sm-4">
                     <div class="site-footer__legal">
                         <span class="site-footer__legal__copyright-message">
-                            All Rights Reserved @ Armishai Digital.
+                            All Rights Reserved @ Armish Digital.
                         </span>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center">
                     <div class="site-footer__legal"><span class="site-footer__legal__copyright-message">
-                            Armishai Digital
+                            Armish Digital
                         </span>
                     </div>
                 </div>

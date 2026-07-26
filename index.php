@@ -29,7 +29,7 @@
           <div class="col-sm-6">
             <div class="banner_main"> <span class=" bounceInLeft" data-wow-delay="300ms">Custom Designs &amp; Great
                 Branding. </span>
-              <p class=" bounceInLeft" data-wow-delay="500ms">Armishai Digital is a dedicated global platform for
+              <p class=" bounceInLeft" data-wow-delay="500ms">Armish Digital is a dedicated global platform for
                 all your digital needs. We infuse the best user experiences and the best designs to help your ideas
                 take flight.</p>
               <div class="banner_btn"> <a href="contact-us" class="tr_btn  bounceInLeft" data-wow-delay="600ms">
