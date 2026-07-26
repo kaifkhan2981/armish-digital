@@ -3,7 +3,7 @@ session_start(); // Start the session
 
 if (isset($_GET["email"]) && !empty($_GET["email"])) {
     $from_email      = filter_var($_GET["email"], FILTER_SANITIZE_EMAIL); // Sanitize email
-    $recipient_email = 'info@Armish Digital.com';
+    $recipient_email = 'info@armishai.com';
     
     // Set default subject to a fixed string
     $subject = "New Query from Armish Digital";

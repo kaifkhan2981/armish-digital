@@ -13,7 +13,7 @@
          <p>1. Specify your concern and claim your refund through any of the following three modes :-</p>
          <p>• i. Toll free # +92 335 6909090 </p>
          <p>• ii. Live Chat.</p>
-         <p>• iii. Email. (<a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>)
+         <p>• iii. Email. (<a href="mailto:info@armishai.com">info@armishai.com</a>)
          </p>
          <p>We will try to resolve your query and concern in light of our revision policy immediately or else will
             email you a refund request approval from our refund department.</p>
@@ -26,7 +26,7 @@
             Copyright Acquisition data for the refunded outlines that would confine the re-utilization of the designs
             as original designs in the future.</p>
          <p>If you have any questions or concerns about our Refund Policy, please get in touch with us by clicking
-            here (<a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>).
+            here (<a href="mailto:info@armishai.com">info@armishai.com</a>).
          </p>
          <h3 class="title clr_blk"> My Account</h3>
          <p>The My Account area is a convenient way to communicate. It is your sole responsibility to check the
@@ -75,7 +75,7 @@
          <p>Correspondence Policy</p>
          <p>YOU concur that Armish Digital is not at risk for any correspondence from email address (es) other
             than the ones took after by our own particular area i.e. “<a
-               href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>”
+               href="mailto:info@armishai.com">info@armishai.com</a>”
             or/and any toll free number that is not specified on our site. Armish Digital ought not be
             considered in charge of any damage(s) brought about by such correspondence. We just assume liability of
             any correspondence through email address (es) under our own space name or/and by means of toll free
@@ -130,7 +130,7 @@
 
          </p>
 
-         <h3 class="title clr_blk"> • ii. Email. <a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
+         <h3 class="title clr_blk"> • ii. Email. <a href="mailto:info@armishai.com">info@armishai.com</a>
          </h3>
          <p>
             We will try to resolve your query and concern in light of our revision policy immediately or else will
@@ -148,7 +148,7 @@
             as original designs in the future.
             <br><br>
             If you have any questions or concerns about our Refund Policy, please get in touch with us by clicking
-            here (<a href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>).
+            here (<a href="mailto:info@armishai.com">info@armishai.com</a>).
 
          </p>
 

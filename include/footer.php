@@ -9,9 +9,9 @@
                             brand
                             awareness, enhance your digital experience, and transform your businesses with Armish Digital. We
                             are your design partners.</p>
-                        <a href="mailto:info@Armish Digital.com" style="width: 75%">
+                        <a href="mailto:info@armishai.com" style="width: 75%">
                             <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                            info@Armish Digital.com
+                            info@armishai.com
                         </a>
                         <a href="tel:+923356909090"><i class="fa fa-phone" aria-hidden="true"></i> For Sales: +92 335 6909090</a>
                         <a><i class="fa fa-map-marker"></i>Pakistan</a>

@@ -429,12 +429,12 @@
          <p> <strong>Submit Requests.</strong> To exercise your rights under the CCPA, you can deactivate and purge
             your account in your control panel settings (. For other requests or to authorize an agent to make a
             request on your behalf, you can also reach out to us at <a
-               href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>.
+               href="mailto:info@armishai.com">info@armishai.com</a>.
          </p>
          <h3> Contact Information </h3>
          <p>If you have any questions, comments, or concerns about our processing activities, or you would like to
             exercise your privacy rights, please email us at <a
-               href="mailto:info@Armish Digital.com">info@Armish Digital.com</a>
+               href="mailto:info@armishai.com">info@armishai.com</a>
             or write to us at: </p>
       </div>
    </div>
