@@ -1,0 +1,232 @@
+@media (max-width:320px) {}
+
+@media (min-width:320px) and (max-width:767px) {
+	.search-container button {
+		position: relative;
+		top: 20px;
+	}
+	.inner_header {
+		min-height: auto;
+	}
+	.banner_main h1 {
+	    font-size: 32px;
+	    text-align: center;
+	}
+	.logo_design_slider .banner_main.banner_main_logo {
+		padding: 30px 0 0;
+		text-align: left;
+	}
+	.banner_list li {
+	    font-size: 14px;
+	    text-align: center;
+	    padding: 0 0 7px 0px;
+	}
+	.logo_type_slider {
+	    margin: 0 0 0 !important;
+	    padding: 30px 0;
+	    background-image: none;
+	}
+	.logo_type_slider .slick-slide img {
+	    display: table;
+	    width: 100%;
+	    margin: 50px auto 0;
+	}
+	.key_features_boxes img {
+		width: 100%;
+	}
+	.benefits_1 {
+		margin: 0 auto;
+	}
+	.benefits_having_boxes {
+		text-align: center;
+		margin: 0px 0 0;
+	}
+	.benefits_2 {
+		margin: 23px auto 0 auto;
+	}
+	.benefits_3 {
+		margin: 23px auto 0 auto;
+	}
+	.benefits_4 {
+		margin: 23px auto 0 auto;
+	}
+
+	.benefits_img_box {
+		background-position: center 0;
+	}
+
+	.benefits_5 {
+		margin: 23px auto 0 auto;
+	}
+	.life_style_boxes h3 {
+		font-size: 22px !important;
+	}
+	.other_categories_sec {
+		display: none;
+	}
+	.how_work_btn .d_grey_btn {
+		font-size: 16px;
+		border: 1px solid #3b3b3b;
+		padding: 9px 22px !important;
+		margin: 0 4px;
+	}
+	.how_work_btn .blue_btn {
+		font-size: 18px;
+		padding: 9px 13px 10px !important;
+	}
+	.brouse_all_cat_box .cat_box_icons img {
+		width: auto !important;
+	}
+	.banner_main {
+		padding: 30px 0px 0px 0px !important;
+	}
+	.mobile_portfolio_sec {
+		display: none;
+	}
+	.key_features_boxes .col-sm-12:nth-child(3) {
+		position: relative;
+		left: 0;
+		z-index: 9999;
+		bottom: 0;
+		width: 100%;
+	}
+	/*.video_portfolio .col-sm-2 {
+		padding: 0px;
+		width: 100%;
+	}*/
+	.video_port_box {
+		width: 100%;
+		padding: 0 44px;
+	}
+	.video_port_text p {
+		font-size: 16px !important;
+	}
+	.video_port_text a {
+		font-size: 16px;
+	}
+	.video_port_text {
+		margin-bottom: 10px;
+	}
+
+	.cata_banner_text h1 {
+	    text-align: center;
+	}
+
+	.cata_banner_text p {
+	    font-size: 16px;
+	    margin: 30px 0px 40px;
+	    text-align: center;
+	}
+
+	.all_cat_box_inner {
+	    position: relative;
+	    width: 100%;
+	}
+
+	.brouse_all_cat_box h2.title_blk_left {
+	    padding: 0px 0px 36px;
+	    width: 100%;
+	    text-align: center;
+	    font-size: 32px;
+	}
+
+	.brouse_all_cat_box h2.title_blk_left span {
+	    display: initial;
+	}
+
+	.brouse_all_cat_box .slider-for-cat .col-sm-3 {
+	    padding-right: 15px;
+	    padding-left: 15px;
+	}
+
+	.slider-nav-cat .slick-list {
+	    height: 100px;
+	}
+
+	.does_work_box2_btn {
+	    float: none;
+	    width: 100%;
+	    margin: 50px auto 0;
+	    display: table;
+	    text-align: center;
+	}
+
+	.cat_box_slider {
+	    padding: 30px 10px 30px;
+	    transition-duration: .5s;
+	    border: 1px solid #ddd;
+	    margin: 0 auto 20px;
+	    display: table;
+	    width: 90%;
+	}
+
+	.banner_list {
+	    padding: 0 0 0 0px;
+	    margin: 30px auto 50px;
+	    display: table;
+	}
+
+	.banner_list li:before {
+	    display: none !important;
+	}
+
+	.logo_type_box h2 {
+	    font-size: 21px;
+	    margin-bottom: 40px;
+	    text-align: center;
+	}
+
+	.logo_type_box p {
+	    font-size: 18px;
+	    color: #989897;
+	    word-spacing: 4px;
+	    text-align: center;
+	}
+
+	.key_features_box h2 {
+	    font-size: 32px;
+	    margin: 0 0 20px;
+	    text-align: center;
+	}
+
+	.key_features_box h2 span {
+	    display: block;
+	    text-align: center;
+	}
+
+	.key_features_box p {
+	    font-size: 17px;
+	    text-align: center;
+	}
+
+	.key_features_boxes .col-sm-12:nth-child(2) .key_features_box {
+	    border-right: 1px solid #ccc;
+	}
+
+	.benefits_having_boxes .benefits_having_box {
+	    margin: 50px 0 0;
+	}
+
+	ul#faqs_tabs {
+	    padding: 0;
+	}
+
+	.about-box h2 {
+	    text-align: center;
+	}
+
+	.about-box p {
+	    font-size: 16px;
+	    text-align: center;
+	}
+
+
+}
+
+
+@media screen and (max-width: 800px) {
+    .wow{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+}

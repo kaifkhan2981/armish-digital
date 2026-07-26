@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Armishai Digital – Website Preview</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  <style>
+    :root { color-scheme: light; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', Montserrat, sans-serif; background: #f5f5f5; color: #333; }
+
+    .header { background: #1a1a2e; padding: 14px 40px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 12px rgba(0,0,0,.4); }
+    .logo-text { color: #fff; font-size: 22px; font-weight: 800; letter-spacing: 1px; }
+    .logo-text span { color: #e94560; }
+    .nav { display: flex; gap: 24px; align-items: center; }
+    .nav a { color: #ccc; text-decoration: none; font-size: 14px; transition: color .2s; }
+    .nav a:hover { color: #e94560; }
+    .btn-get { background: #e94560; color: #fff !important; padding: 8px 20px; border-radius: 4px; font-weight: 600; }
+    .btn-call { border: 1px solid #e94560; color: #e94560 !important; padding: 8px 16px; border-radius: 4px; font-size: 13px; }
+
+    .hero { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); color: #fff; padding: 80px 40px; display: flex; align-items: center; justify-content: space-between; min-height: 420px; }
+    .hero-text { max-width: 520px; }
+    .hero-text h1 { font-size: 42px; font-weight: 900; line-height: 1.2; margin-bottom: 18px; }
+    .hero-text h1 span { color: #e94560; }
+    .hero-text p { font-size: 16px; color: #aac; line-height: 1.7; margin-bottom: 28px; }
+    .hero-btns { display: flex; gap: 14px; }
+    .hero-btns a { text-decoration: none; padding: 12px 28px; border-radius: 5px; font-weight: 600; font-size: 15px; }
+    .btn-primary { background: #e94560; color: #fff; }
+    .btn-secondary { border: 2px solid #fff; color: #fff; }
+    .hero-badge { background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.15); border-radius: 16px; padding: 30px 40px; text-align: center; min-width: 260px; }
+    .hero-badge .phone { font-size: 22px; font-weight: 700; color: #e94560; margin-bottom: 6px; }
+    .hero-stats { display: flex; gap: 30px; margin-top: 30px; }
+    .stat .num { font-size: 28px; font-weight: 800; color: #e94560; }
+    .stat .lbl { font-size: 11px; color: #889; text-transform: uppercase; letter-spacing: 1px; }
+
+    .section { padding: 60px 40px; }
+    .section-title { text-align: center; margin-bottom: 40px; }
+    .section-title h2 { font-size: 32px; font-weight: 800; color: #1a1a2e; margin-bottom: 10px; }
+    .section-title h2 span { color: #e94560; }
+    .section-title p { color: #666; font-size: 15px; }
+
+    .cat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; max-width: 1100px; margin: 0 auto; }
+    .cat-card { background: #fff; border-radius: 12px; padding: 28px 20px; text-align: center; box-shadow: 0 4px 18px rgba(0,0,0,.08); transition: transform .2s, box-shadow .2s; cursor: pointer; border-bottom: 3px solid transparent; }
+    .cat-card:hover { transform: translateY(-6px); box-shadow: 0 8px 28px rgba(233,69,96,.18); border-bottom-color: #e94560; }
+    .cat-icon { font-size: 36px; margin-bottom: 14px; }
+    .cat-card h3 { font-size: 15px; font-weight: 700; color: #1a1a2e; margin-bottom: 6px; }
+    .cat-card p { font-size: 12px; color: #888; line-height: 1.5; }
+    .cat-count { display: inline-block; background: #fef0f3; color: #e94560; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; margin-top: 10px; }
+
+    .services-strip { background: #1a1a2e; padding: 40px; }
+    .strip-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; max-width: 1100px; margin: 0 auto; }
+    .strip-item { text-align: center; padding: 16px 10px; color: #ccc; font-size: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,.07); transition: background .2s; cursor: pointer; }
+    .strip-item:hover { background: rgba(233,69,96,.15); color: #e94560; }
+    .strip-item i { display: block; font-size: 22px; margin-bottom: 8px; color: #e94560; }
+
+    .how-section { background: #fff; padding: 60px 40px; }
+    .steps { display: flex; justify-content: center; gap: 0; max-width: 900px; margin: 0 auto; }
+    .step { flex: 1; text-align: center; padding: 20px; position: relative; }
+    .step:not(:last-child)::after { content: '→'; position: absolute; right: -12px; top: 30px; font-size: 24px; color: #e94560; }
+    .step-num { width: 60px; height: 60px; background: #e94560; color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 22px; font-weight: 800; margin: 0 auto 14px; }
+    .step h4 { font-size: 15px; font-weight: 700; color: #1a1a2e; margin-bottom: 6px; }
+    .step p { font-size: 12px; color: #888; line-height: 1.6; }
+
+    .pages-section { background: #f9f9f9; padding: 60px 40px; }
+    .pages-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; max-width: 1100px; margin: 0 auto; }
+    .page-pill { background: #fff; border: 1px solid #e8e8e8; border-radius: 6px; padding: 10px 14px; font-size: 12px; color: #555; display: flex; align-items: center; gap: 6px; transition: all .2s; }
+    .page-pill:hover { background: #e94560; color: #fff; border-color: #e94560; }
+    .page-pill i { color: #e94560; font-size: 11px; }
+    .page-pill:hover i { color: #fff; }
+
+    .contact-bar { background: linear-gradient(135deg, #e94560, #c62a47); color: #fff; padding: 40px; text-align: center; }
+    .contact-bar h2 { font-size: 28px; font-weight: 800; margin-bottom: 10px; }
+    .contact-bar p { font-size: 15px; opacity: .85; margin-bottom: 20px; }
+    .contact-info { display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; }
+    .contact-item { display: flex; align-items: center; gap: 10px; font-size: 15px; }
+
+    .footer { background: #0d0d1a; color: #888; padding: 40px; }
+    .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 30px; max-width: 1100px; margin: 0 auto 30px; }
+    .footer h5 { color: #fff; font-size: 14px; font-weight: 700; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 1px; }
+    .footer p, .footer a { font-size: 13px; color: #666; text-decoration: none; line-height: 1.9; display: block; }
+    .footer a:hover { color: #e94560; }
+    .footer-bottom { border-top: 1px solid #1a1a1a; padding-top: 20px; text-align: center; font-size: 12px; color: #444; max-width: 1100px; margin: 0 auto; }
+  </style>
+</head>
+<body>
+
+<div style="background:#1a1a2e; color:#aac; text-align:center; padding:8px; font-size:12px;">
+  🖥️ یہ <strong style="color:#e94560;">Armishai Digital</strong> website کا visual preview ہے — اصل website PHP server پر چلتی ہے
+</div>
+
+<div class="header">
+  <div class="logo-text">UME <span>Technology</span> LLC</div>
+  <div class="nav">
+    <a href="#">Categories ▾</a>
+    <a href="#">Pricing</a>
+    <a href="#">Portfolio</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+    <a href="#" class="btn-call"><i class="fa fa-phone"></i> +1 (469) 231-5312</a>
+    <a href="#" class="btn-get">Get Started</a>
+  </div>
+</div>
+
+<div class="hero">
+  <div class="hero-text">
+    <h1>Exceptional Logos.<br><span>Brilliant & Modern</span> Prints.</h1>
+    <p>Armishai Digital — ایک dedicated global digital agency۔ آپ کے تمام digital needs کے لیے بہترین designs اور solutions۔</p>
+    <div class="hero-btns">
+      <a href="#" class="btn-primary">Get Started for Free</a>
+      <a href="#" class="btn-secondary">View Portfolio</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><div class="num">90+</div><div class="lbl">Services</div></div>
+      <div class="stat"><div class="num">1000+</div><div class="lbl">Portfolio Images</div></div>
+      <div class="stat"><div class="num">10+</div><div class="lbl">Categories</div></div>
+      <div class="stat"><div class="num">100%</div><div class="lbl">Satisfaction</div></div>
+    </div>
+  </div>
+  <div class="hero-badge">
+    <div style="font-size:50px; margin-bottom:10px;">🎨</div>
+    <div class="phone">+1 (469) 231-5312</div>
+    <p style="color:#aac;">Sales & Support</p>
+    <p style="margin-top:8px; color:#e94560; font-size:12px;">Fort Worth, TX 76155</p>
+    <p style="margin-top:4px; font-size:11px; color:#aac;">info@armishai.com</p>
+  </div>
+</div>
+
+<div class="section" style="background:#f9f9f9;">
+  <div class="section-title">
+    <h2>Browse by <span>Category</span></h2>
+    <p>Our Digital Design Packages Are One of a Kind.</p>
+  </div>
+  <div class="cat-grid">
+    <div class="cat-card"><div class="cat-icon">🏆</div><h3>Logo & Identity</h3><p>Logo Design, 3D Logo, Brand Book, Mascot, Animation</p><span class="cat-count">7 Services</span></div>
+    <div class="cat-card"><div class="cat-icon">💻</div><h3>Web Design & Dev</h3><p>Business Website, Landing Page, Ecommerce, WordPress</p><span class="cat-count">7 Services</span></div>
+    <div class="cat-card"><div class="cat-icon">🎬</div><h3>Video & Animation</h3><p>2D/3D Explainer, Whiteboard, Motion Graphics, Typography</p><span class="cat-count">6 Services</span></div>
+    <div class="cat-card"><div class="cat-icon">🖨️</div><h3>Printing & Collateral</h3><p>Brochures, Banners, Flyers, Posters, Stickers, Flags</p><span class="cat-count">15 Services</span></div>
+    <div class="cat-card"><div class="cat-icon">👕</div><h3>Clothing & Merch</h3><p>T-Shirts, Hoodies, Sports Jersey, Bags, Mugs, Keychains</p><span class="cat-count">14 Services</span></div>
+    <div class="cat-card"><div class="cat-icon">📦</div><h3>Packaging & Label</h3><p>Product, Food, Retail, Cosmetic, Beverage, Beer Label</p><span class="cat-count">9 Services</span></div>
+    <div class="cat-card"><div class="cat-icon">📢</div><h3>Online Marketing</h3><p>Social Media Designs, Digital Marketing, SEO Content</p><span class="cat-count">3 Services</span></div>
+    <div class="cat-card"><div class="cat-icon">✍️</div><h3>Content Writing</h3><p>Blog, Articles, Ebook Writing, Wikipedia Services</p><span class="cat-count">4 Services</span></div>
+  </div>
+</div>
+
+<div class="services-strip">
+  <div class="section-title" style="margin-bottom:28px;"><h2 style="color:#fff;">Popular <span style="color:#e94560;">Services</span></h2></div>
+  <div class="strip-grid">
+    <div class="strip-item"><i class="fa fa-paint-brush"></i>Logo Design</div>
+    <div class="strip-item"><i class="fa fa-globe"></i>Website Design</div>
+    <div class="strip-item"><i class="fa fa-film"></i>Explainer Videos</div>
+    <div class="strip-item"><i class="fa fa-print"></i>Brochure Design</div>
+    <div class="strip-item"><i class="fa fa-shopping-bag"></i>T-Shirt Design</div>
+    <div class="strip-item"><i class="fa fa-cube"></i>3D Logo</div>
+    <div class="strip-item"><i class="fa fa-shopping-cart"></i>Ecommerce</div>
+    <div class="strip-item"><i class="fa fa-mobile"></i>App UI Design</div>
+    <div class="strip-item"><i class="fa fa-bullhorn"></i>Social Media</div>
+    <div class="strip-item"><i class="fa fa-box"></i>Product Packaging</div>
+    <div class="strip-item"><i class="fa fa-book"></i>Ebook Writing</div>
+    <div class="strip-item"><i class="fa fa-server"></i>Hosting Services</div>
+  </div>
+</div>
+
+<div class="how-section">
+  <div class="section-title"><h2>How It <span style="color:#e94560;">Works</span></h2><p>Simple 4-step process to get your design done</p></div>
+  <div class="steps">
+    <div class="step"><div class="step-num">1</div><h4>Choose a Package</h4><p>Browse our services and select the right package for your needs</p></div>
+    <div class="step"><div class="step-num">2</div><h4>Share Your Brief</h4><p>Tell us about your brand, preferences and requirements</p></div>
+    <div class="step"><div class="step-num">3</div><h4>Review Designs</h4><p>Get multiple concepts and provide feedback for revisions</p></div>
+    <div class="step"><div class="step-num">4</div><h4>Get Final Files</h4><p>Receive all source files and formats ready to use</p></div>
+  </div>
+</div>
+
+<div class="pages-section">
+  <div class="section-title"><h2>Website <span style="color:#e94560;">Pages</span> (90+ PHP Files)</h2><p>مکمل website structure — ہر service کا اپنا dedicated page</p></div>
+  <div class="pages-grid">
+    <div class="page-pill"><i class="fa fa-home"></i>index.php (Home)</div>
+    <div class="page-pill"><i class="fa fa-info-circle"></i>about.php</div>
+    <div class="page-pill"><i class="fa fa-envelope"></i>contact-us.php</div>
+    <div class="page-pill"><i class="fa fa-tags"></i>pricing.php</div>
+    <div class="page-pill"><i class="fa fa-briefcase"></i>portfolio.php</div>
+    <div class="page-pill"><i class="fa fa-paint-brush"></i>logo-design.php</div>
+    <div class="page-pill"><i class="fa fa-star"></i>logo-brand-identity.php</div>
+    <div class="page-pill"><i class="fa fa-cube"></i>3d-logo.php</div>
+    <div class="page-pill"><i class="fa fa-video-camera"></i>logo-animation.php</div>
+    <div class="page-pill"><i class="fa fa-book"></i>brand-book.php</div>
+    <div class="page-pill"><i class="fa fa-globe"></i>business-website-design.php</div>
+    <div class="page-pill"><i class="fa fa-mobile"></i>landing-page.php</div>
+    <div class="page-pill"><i class="fa fa-refresh"></i>website-revamp.php</div>
+    <div class="page-pill"><i class="fa fa-shopping-cart"></i>ecommerce.php</div>
+    <div class="page-pill"><i class="fa fa-wordpress"></i>wordpress-cms.php</div>
+    <div class="page-pill"><i class="fa fa-film"></i>2d-explainer-videos.php</div>
+    <div class="page-pill"><i class="fa fa-film"></i>3d-videos.php</div>
+    <div class="page-pill"><i class="fa fa-pencil"></i>whiteboard.php</div>
+    <div class="page-pill"><i class="fa fa-play"></i>motiongraphics.php</div>
+    <div class="page-pill"><i class="fa fa-font"></i>typography.php</div>
+    <div class="page-pill"><i class="fa fa-print"></i>brochure.php</div>
+    <div class="page-pill"><i class="fa fa-image"></i>banners-signage.php</div>
+    <div class="page-pill"><i class="fa fa-file"></i>flyer-leaflet.php</div>
+    <div class="page-pill"><i class="fa fa-sticky-note-o"></i>stickers.php</div>
+    <div class="page-pill"><i class="fa fa-flag"></i>flags.php</div>
+    <div class="page-pill"><i class="fa fa-user"></i>t-shirts.php</div>
+    <div class="page-pill"><i class="fa fa-user"></i>hoodies.php</div>
+    <div class="page-pill"><i class="fa fa-shopping-bag"></i>bags-tote.php</div>
+    <div class="page-pill"><i class="fa fa-coffee"></i>mugs-bottles.php</div>
+    <div class="page-pill"><i class="fa fa-key"></i>keychains.php</div>
+    <div class="page-pill"><i class="fa fa-archive"></i>product-packaging.php</div>
+    <div class="page-pill"><i class="fa fa-cutlery"></i>food-packaging.php</div>
+    <div class="page-pill"><i class="fa fa-flask"></i>cosmetic-packaging.php</div>
+    <div class="page-pill"><i class="fa fa-tag"></i>product-label.php</div>
+    <div class="page-pill"><i class="fa fa-beer"></i>beer-label.php</div>
+    <div class="page-pill"><i class="fa fa-bullhorn"></i>online-marketing.php</div>
+    <div class="page-pill"><i class="fa fa-facebook"></i>social-media-designs.php</div>
+    <div class="page-pill"><i class="fa fa-pencil-square-o"></i>content-writing.php</div>
+    <div class="page-pill"><i class="fa fa-book"></i>ebook-writing.php</div>
+    <div class="page-pill"><i class="fa fa-wikipedia-w"></i>wikipedia-services.php</div>
+    <div class="page-pill"><i class="fa fa-server"></i>hosting-services.php</div>
+    <div class="page-pill"><i class="fa fa-sign-in"></i>login.php</div>
+    <div class="page-pill"><i class="fa fa-user-plus"></i>register.php</div>
+    <div class="page-pill"><i class="fa fa-credit-card"></i>payment.php</div>
+    <div class="page-pill"><i class="fa fa-shield"></i>privacy.php</div>
+    <div class="page-pill"><i class="fa fa-file-text"></i>terms.php</div>
+    <div class="page-pill"><i class="fa fa-check-circle"></i>thankyou.php</div>
+    <div class="page-pill"><i class="fa fa-th"></i>categories.php</div>
+    <div class="page-pill"><i class="fa fa-rss"></i>blog.php</div>
+    <div class="page-pill"><i class="fa fa-code"></i>custom-web-portals.php</div>
+  </div>
+</div>
+
+<div class="contact-bar">
+  <h2>Ready to Start Your Project?</h2>
+  <p>Get in touch with our team for a free consultation</p>
+  <div class="contact-info">
+    <div class="contact-item"><i class="fa fa-phone"></i> +1 (469) 231-5312</div>
+    <div class="contact-item"><i class="fa fa-envelope"></i> info@armishai.com</div>
+    <div class="contact-item"><i class="fa fa-map-marker"></i> 4400 Sea Tac Dr #8308, Fort Worth, TX 76155</div>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="footer-grid">
+    <div>
+      <div class="logo-text" style="margin-bottom:14px;">UME <span>Technology</span> LLC</div>
+      <p>We are your go-to digital and design agency, providing exceptional design solutions.</p><br>
+      <a href="#"><i class="fa fa-envelope-o"></i> info@armishai.com</a>
+      <a href="#"><i class="fa fa-phone"></i> +1 (469) 231-5312</a>
+      <a href="#"><i class="fa fa-map-marker"></i> Fort Worth, TX 76155</a>
+    </div>
+    <div>
+      <h5>Services</h5>
+      <a href="#">Logo Design</a><a href="#">Mascot Design</a><a href="#">Stationery Design</a><a href="#">Product Packaging</a><a href="#">Online Marketing</a><a href="#">Social Media Design</a>
+    </div>
+    <div>
+      <h5>Company</h5>
+      <a href="#">Portfolio</a><a href="#">Pricing</a><a href="#">About Us</a><a href="#">Blog</a><a href="#">Contact</a>
+    </div>
+    <div>
+      <h5>Legal</h5>
+      <a href="#">Privacy Policy</a><a href="#">Terms & Conditions</a><a href="#">CCPA Privacy Notice</a><a href="#">Data Processing</a>
+    </div>
+  </div>
+  <div class="footer-bottom">All Rights Reserved © Armishai Digital &nbsp;|&nbsp; PHP + Bootstrap + jQuery</div>
+</div>
+
+</body>
+</html>
